@@ -1,8 +1,0 @@
-{
-  "/api/admin/stats/route": "app/api/admin/stats/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/api/download/[id]/route": "app/api/download/[id]/route.js",
-  "/api/files/route": "app/api/files/route.js",
-  "/api/url-upload/route": "app/api/url-upload/route.js",
-  "/page": "app/page.js"
-}
